@@ -4,16 +4,11 @@ Olá ! Bem vindo ao meu repositório:wave:
 
 ## Conteúdo Aprendido no Bootcamp:
 
-- HTML E CSS3
+1. HTML E CSS3
+2. Javascript 
+3. ReactJs
+4. MySQL
+5. NodeJs
 
-- Javascript 
 
-- ReactJs
 
-- MySQL
-
-- NodeJs
-
-  ## 
-
-  
