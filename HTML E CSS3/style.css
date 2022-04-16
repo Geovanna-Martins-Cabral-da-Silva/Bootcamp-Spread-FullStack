@@ -1,0 +1,46 @@
+body{
+ background-color: #ccc;   
+}
+
+
+
+.post{
+    background-color: white;
+    padding: 10px 5px;
+    border: 10px solid black; 
+    border-top: 10px solid black;
+    border-left: 10px  solid black ;
+    border-right:10px solid black;
+    margin: 0px ;
+}
+
+.photo{
+    border-radius:50%;
+    border: 1px black;
+}
+
+#título{
+    margin: 0px;
+}
+
+.competencias{
+    margin: 0px;
+}
+
+.contacts_list{
+   padding-left: 15px; 
+}
+
+.imagens{
+    margin: 0px;
+    padding: 10px;
+}
+
+.LPs{
+padding-left: 15px;
+
+}
+
+
+
+
